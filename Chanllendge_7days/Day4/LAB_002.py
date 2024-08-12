@@ -1,3 +1,5 @@
+#if loop if condition syntax
+
 num = 8
 if num == 5:
     print(str(num), "is not 5")

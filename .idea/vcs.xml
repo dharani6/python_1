@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PyATB4xLearning" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Py-ATB4x-Learning" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python/PyATB4xLearning" vcs="Git" />
   </component>
 </project>

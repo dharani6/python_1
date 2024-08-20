@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2910ce06-1f99-4fcb-ab94-ea76aff64e3b" name="Changes" comment="20-08 py files">
-      <change afterPath="$PROJECT_DIR$/13-08-2024/Lab_001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-08-2024/Task_1_and_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-08-2024/Task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-08-2024/Calculater_sahil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-08-2024/Lab_001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-08-2024/Lab_002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-08-2024/lab_003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_20082024/LAB_001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab_040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_20082024/Task.txt" afterDir="false" />
+    <list default="true" id="2910ce06-1f99-4fcb-ab94-ea76aff64e3b" name="Changes" comment="20-08 py files all fiels with task uploaded in git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723257823318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20-08 py files all fiels with task uploaded in git">
+      <created>1724139083750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724139083750</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20-08 py files all fiels with task uploaded in git">
+      <created>1724139131178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724139131178</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +226,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files" />
+    <MESSAGE value="20-08 py files all fiels with task uploaded in git" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-08 py files all fiels with task uploaded in git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

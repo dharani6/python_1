@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07f19f6f-8dd1-4989-ae73-9e83d949c3c8" name="Changes" comment="Updated 1 problem">
+    <list default="true" id="07f19f6f-8dd1-4989-ae73-9e83d949c3c8" name="Changes" comment="Updated 1 problem and all task">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python" beforeDir="false" afterPath="$PROJECT_DIR$/Python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Day11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Day12_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Personal finace traker tutorial/data_entry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Personal finace traker tutorial/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/python_4x_ATB/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/python_4x_ATB/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/python_4x_ATB/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/python_4x_ATB/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/python_4x_ATB/.idea/python_4x_ATB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/python_4x_ATB/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/PyATB4xLearning" beforeDir="false" afterPath="$PROJECT_DIR$/test/PyATB4xLearning" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/PyATB4xLearning/17-08-2024/Task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/PyATB4xLearning/17-08-2024/Task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/PyATB4xLearning/EX_20082024/Task.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +39,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="Python/main" />
+    <option name="BRANCH" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -160,27 +180,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="PyATB4xLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,81 +201,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="PyATB4xLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="PyATB4xLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="PyATB4xLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="PyATB4xLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="PyATB4xLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Task_9" />
@@ -290,7 +214,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2910ce06-1f99-4fcb-ab94-ea76aff64e3b" name="Changes" comment="" />
+      <changelist id="07f19f6f-8dd1-4989-ae73-9e83d949c3c8" name="Changes" comment="Updated 1 problem and all task" />
       <created>1723254212881</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -356,7 +280,8 @@
     <MESSAGE value="new files" />
     <MESSAGE value="20-08 py files all fiels with task uploaded in git" />
     <MESSAGE value="Updated 1 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated 1 problem" />
+    <MESSAGE value="Updated 1 problem and all task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated 1 problem and all task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

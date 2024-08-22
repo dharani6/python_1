@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07f19f6f-8dd1-4989-ae73-9e83d949c3c8" name="Changes" comment="Updated 1 problem and all task">
-      <change afterPath="$PROJECT_DIR$/EX_22-08-2024/LAB_030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_22-08-2024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_22-08-2024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_22-08-2024/Task_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_22-08-2024/Task_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PyATB4xLearning/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_22-08-2024/Task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_22-08-2024/Task_11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/PyATB4xLearning" beforeDir="false" afterPath="$PROJECT_DIR$/test/PyATB4xLearning" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724262940300</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated 1 problem and all task">
+      <created>1724333218591</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724333218591</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

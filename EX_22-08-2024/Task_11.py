@@ -12,6 +12,19 @@ def fibonoci(num):
     return res
 
 print(fibonoci(7)) '''
-N = 7
-fib =[0 for i in range(N)]
-print(fib)
+fib = 7
+
+
+def fibo(n):
+    n1, n2 = 0, 1
+    fib_list = []
+
+    for i in range(n):
+        nth = n1 + n2
+        n1 = n2
+        n2 = nth
+        fib_list.append(nth)
+        print(nth)
+
+    print(fib_list)
+fibo(7)
